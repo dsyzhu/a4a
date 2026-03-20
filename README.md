@@ -1,5 +1,5 @@
 # YQL program example
-
+```Java
 PROGRAM (
     @namespace  string = '',
     @contextIds string,
